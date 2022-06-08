@@ -21,7 +21,6 @@
     "webpack-dev-server": "^4.9.2"
   },
   "dependencies": {
-    "marked": "^4.0.16",
-    "md2html": "^0.1.0"
+    "marked": "^4.0.16"
   }
 }
